@@ -16,7 +16,7 @@ Bon surf !
 | 4 | <b>[Marlin](https://github.com/ProjetsMerlin/Marlin)       </b> | Une simple page qui vérifie une API Wordpress |
 | 5 | <b>[Dolphin](https://github.com/ProjetsMerlin/Dolphin)      </b> | Résumé des commandes GIT |
 | 6 | <b>[Carassin](https://github.com/ProjetsMerlin/Carassin)     </b> | Il s'agit est une application météo qui utilise l'API "OpenWeatherMap". |
-| 7 | <b>[Virgin-child](https://github.com/ProjetsMerli/Virgin-child) </b> | Ici je modifie l'affichage "par défaut" d'un article pour en afficher son équivalent dans l'API |
+| 7 | <b>[Virgin-child](https://github.com/ProjetsMerlin/Virgin-child) </b> | Ici je modifie l'affichage "par défaut" d'un article pour en afficher son équivalent dans l'API |
 | 8 | <b>[Virgin](https://github.com/ProjetsMerlin/Virgin)       </b> | Virgin : mon thème Wordpress de base |
 | 9 | <b>[Bespin](https://github.com/ProjetsMerlin/Bespin)       </b> | Bespin : thème Wordpress de mes outils en ligne |
 | 10 | <b>[helperGridJs](https://github.com/ProjetsMerlin/helperGridJs) </b> | Une grille dynamique pouvant vérifier les alignements des éléments |
