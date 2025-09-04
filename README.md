@@ -1,6 +1,6 @@
 # Hello wolrd !
 - 👋 Salut, c'est Merlin !
-- 👀 Vous trouverez ici mes projets web en cours, à jour ou en pleine éclosion
+- 👀 Vous trouverez ici mes projets web en cours, à jour, ou en pleine éclosion
 - 🌱 Je reste persuadé que l'informatique aura son rôle à jouer dans la construction d'un monde plus éthique et plus durable
 
 ## Mes projets
