@@ -10,6 +10,7 @@ Bon surf !
 
 | # | Lien  | Description |
 | ------------- |----------------|:----------------:|
+| 15 | <b>[Odin](https://github.com/ProjetsMerlin/Odin)       </b> | Mon thème de base Odoo |
 | 14 | <b>[Marvin](https://github.com/ProjetsMerlin/Marvin)       </b> | Une checkliste qualité web |
 | 13 | <b>[Aladin](https://github.com/ProjetsMerlin/Aladin)       </b> | Le thème Wordpress qui vous convient |
 | 12 | <b>[Pumpskin](https://github.com/ProjetsMerlin/Pumpskin)     </b> | PumpSkin : mon framework CSS |
