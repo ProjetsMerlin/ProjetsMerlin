@@ -10,7 +10,7 @@ Bon surf !
 
 | # | Lien  | Description |
 | ------------- |----------------|:----------------:|
-| 16 | <b>[Lérotin](https://github.com/ProjetsMerlin/Lerotin)       </b> | Soous Python, afficher les phases lunaires |
+| 16 | <b>[Lérotin](https://github.com/ProjetsMerlin/Lerotin)       </b> | Sous Python, afficher les phases lunaires |
 | 15 | <b>[Odin](https://github.com/ProjetsMerlin/Odin)       </b> | Mon thème de base Odoo |
 | 14 | <b>[Marvin](https://github.com/ProjetsMerlin/Marvin)       </b> | Une checkliste qualité web |
 | 13 | <b>[Aladin](https://github.com/ProjetsMerlin/Aladin)       </b> | Le thème Wordpress qui vous convient |
