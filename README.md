@@ -10,6 +10,7 @@ Bon surf !
 
 | # | Lien  | Description |
 | ------------- |----------------|:----------------:|
+| 17 | <b>[Takin](https://github.com/ProjetsMerlin/Takin)       </b> | Plugin Wordpress qui affiche votre blog en calendrier de l'avent |
 | 16 | <b>[Lérotin](https://github.com/ProjetsMerlin/Lerotin)       </b> | Sous Python, afficher les phases lunaires |
 | 15 | <b>[Odin](https://github.com/ProjetsMerlin/Odin)       </b> | Mon thème de base Odoo |
 | 14 | <b>[Marvin](https://github.com/ProjetsMerlin/Marvin)       </b> | Une checkliste qualité web |
