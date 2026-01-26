@@ -10,6 +10,7 @@ Bon surf !
 
 | # | Lien  | Description |
 | ------------- |----------------|:----------------:|
+| 18 | <b>[Tamarin](https://github.com/ProjetsMerlin/Tamarin)       </b> | Une librairie JS qui implémente un Call To Action qui enregistre vos visiteurs sur Mailchimp |
 | 17 | <b>[Takin](https://github.com/ProjetsMerlin/Takin)       </b> | Plugin Wordpress qui affiche votre blog en calendrier de l'avent |
 | 16 | <b>[Lérotin](https://github.com/ProjetsMerlin/Lerotin)       </b> | Sous Python, afficher les phases lunaires |
 | 15 | <b>[Odin](https://github.com/ProjetsMerlin/Odin)       </b> | Mon thème de base Odoo |
