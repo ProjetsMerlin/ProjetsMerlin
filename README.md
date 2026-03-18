@@ -1,4 +1,13 @@
-# Hello wolrd !
+# Hello Github !
+
+Je suis à la recherche d'un nouveau poste et vous serais reconnaissant de m‘apporter votre aide.
+Si vous entendez parler d’un temps plein en tant que que Développeur web ou si vous souhaitez simplement en parler, envoyez-moï un message en privé.
+
+## Je cherche
+- Je recherche des postes de Développeur web.
+- Je suis à l’écoute de nouvelles opportunités dans le Brabant Wallon.
+
+## Un peu de moi
 - 👋 Salut, c'est Merlin !
 - 👀 Vous trouverez ici mes projets web en cours, à jour, ou en pleine éclosion
 - 🌱 Je reste persuadé que l'informatique aura son rôle à jouer dans la construction d'un monde plus éthique et plus durable
