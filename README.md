@@ -19,6 +19,7 @@ Bon surf !
 
 | # | Lien  | Description |
 | ------------- |----------------|:----------------:|
+| 19 | <b>[Severin](https://github.com/ProjetsMerlin/Severin)       </b> | Un projet minimaliste complet référencé, sécurisé et performant |
 | 18 | <b>[Tamarin](https://github.com/ProjetsMerlin/Tamarin)       </b> | Une librairie JS qui implémente un formulaire qui enregistre vos leads sur Mailchimp |
 | 17 | <b>[Takin](https://github.com/ProjetsMerlin/Takin)       </b> | Plugin Wordpress qui affiche votre blog en calendrier de l'avent |
 | 16 | <b>[Lérotin](https://github.com/ProjetsMerlin/Lerotin)       </b> | Sous Python, afficher les phases lunaires |
