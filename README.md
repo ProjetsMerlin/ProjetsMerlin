@@ -4,8 +4,8 @@ Je suis à la recherche d'un nouveau poste et vous serais reconnaissant de m‘a
 Si vous entendez parler d’un temps plein en tant que que Développeur web ou si vous souhaitez simplement en parler, envoyez-moï un message en privé.
 
 ## Je cherche
-- Je recherche des postes de Développeur web.
-- Je suis à l’écoute de nouvelles opportunités dans le Brabant Wallon.
+- Je recherche un poste en tant que Développeur Web.
+- Je suis à l’écoute de nouvelles opportunités et de préférence dans le Brabant Wallon.
 
 ## Un peu de moi
 - 👋 Salut, c'est Merlin !
