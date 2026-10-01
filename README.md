@@ -19,8 +19,8 @@ Bon surf !
 
 | # | Lien  | Description |
 | ------------- |----------------|:----------------:|
-| 23 | <b>[Capucin](https://github.com/ProjetsMerlin/Capucin)       </b> | Projet Next.js lié à un WordPress Headless |
-| 22 | <b>[Ragondin](https://github.com/ProjetsMerlin/Ragondin)       </b> | Template base Next.js |
+| 23 | <b>[Ragondin](https://github.com/ProjetsMerlin/Ragondin)       </b> | Template base Next.js |
+| 22 | <b>[Capucin](https://github.com/ProjetsMerlin/Capucin)       </b> | Wordpress + GraphQL + React/Vite |
 | 21 | <b>[Alevin](https://github.com/ProjetsMerlin/Alevin)       </b> | Odoo module fleet car |
 | 20 | <b>[Requin](https://github.com/ProjetsMerlin/Requin)       </b> | Test de l'API Microlink, qui réalise des screenshot de sites web |
 | 19 | <b>[Severin](https://github.com/ProjetsMerlin/Severin)       </b> | Un projet minimaliste complet référencé, sécurisé et performant |
