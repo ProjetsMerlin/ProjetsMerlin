@@ -19,6 +19,7 @@ Bon surf !
 
 | # | Lien  | Description |
 | ------------- |----------------|:----------------:|
+| 24 | <b>[Ragondin](https://github.com/ProjetsMerlin/Viverrin)       </b> | Template multilingue de base Next.js |
 | 23 | <b>[Ragondin](https://github.com/ProjetsMerlin/Ragondin)       </b> | Template base Next.js |
 | 22 | <b>[Capucin](https://github.com/ProjetsMerlin/Capucin)       </b> | Wordpress + GraphQL + React/Vite |
 | 21 | <b>[Alevin](https://github.com/ProjetsMerlin/Alevin)       </b> | Odoo module fleet car |
